@@ -1,0 +1,9 @@
+main(){
+    new int prom;
+    new int c1, c2;
+    c1= 8;
+    c2= 4;
+    prom=(c1+c2)/2;
+    print("El promedio es: ");
+    print(prom);
+}

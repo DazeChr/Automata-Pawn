@@ -1,0 +1,9 @@
+Segmento dato
+Declarar,int, ,a
+Declarar,int, ,b
+Declarar,float, ,prom
+Segmento Codigo
+asigna,a, ,3
+asigna,b, ,4
+asigna,prom, ,7
+Imprime, , ,prom
