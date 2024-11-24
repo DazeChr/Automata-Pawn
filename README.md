@@ -1,5 +1,5 @@
 # Automata-Pawn
-Automata completo de PAWN desarrollado en Java.
+Autómata completo de PAWN desarrollado en Java.
 
 Estructura:
 - Analizador Léxico
